@@ -42,11 +42,11 @@ h1 {
  /* header*/
 
 nav {
-    margin: 10px auto;
+    margin: 0 auto;
 }
 
 .header-menu {
-    margin: 10px auto;
+    margin: 0 auto;
     padding: 10px 10px; 
     display:flex;
     justify-content: space-around;
